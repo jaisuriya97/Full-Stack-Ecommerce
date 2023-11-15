@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Halimun Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Halimun Regular'), url('./Fonts/Halimun.woff') format('woff');
+}
+  
+@font-face {
+    font-family: 'Billabong';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Billabong'), url('./Fonts/Billabong.ttf') format('TrueType');
+}
+@font-face {
+    font-family: 'Thesignature';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Thesignature'), url('./Fonts/Thesignature.ttf') format('Truetype');
+}
+@font-face {
+    font-family: 'Bayshore';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bayshore'), url('./Fonts/Bayshore.otf') format('OpenType');
+}
+
+@font-face {
+    font-family: 'Satisfy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Satisfy'), url('./Fonts/Satisfy.ttf') format('Truetype');
+}
+@font-face {
+    font-family: 'GreatVibes';
+    font-style: normal;
+    font-weight: normal;
+    src: local('GreatVibes'), url('./Fonts/GreatVibes-Regular.ttf') format('Truetype');
+}
+@font-face {
+    font-family: 'MUH';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MUH'), url('./Fonts/MyUglyHandwritting.ttf') format('Truetype');
+}
+    
+@font-face {
+    font-family: 'MUH';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MUH'), url('./Fonts/MyUglyHandwritting.ttf') format('Truetype');
+}
+
+@font-face {
+    font-family: 'Original';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Original'), url('./Fonts/Original.otf') format('OpenType');
+}
+@font-face {
+    font-family: 'Passionate';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bayshore'), url('./Fonts/Passionate.ttf') format('TrueType');
+}
+@font-face {
+    font-family: 'Photograph';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Photograph'), url('./Fonts/Photograph-Signature.ttf') format('TrueType');
+}
