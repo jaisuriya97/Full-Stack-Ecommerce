@@ -2,10 +2,6 @@
 ## Greetings 💐
 
 
-# Full Stack Ecommerce website using Next js
->[!NOTE]
->This project serves as an experimental journey to enhance my full-stack development skills, constructed with a focus on my personal interests
-
 
 ## 🚀Instellation
   1. Run ``` npm i ``` to install all dependencies.
